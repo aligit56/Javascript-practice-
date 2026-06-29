@@ -24,3 +24,5 @@ console.log(undefined < 0);
 // === checks strictly 
 
  console.log("2"=== 2);
+
+ 
