@@ -23,4 +23,17 @@ console.log(booleanIsLoggedIn);
 // " Ali " will give true 
 
 
+// operations    //
+// some are the basics like add sub mul divide and 
+// many more 
+
+let str1 = "ali"
+let str2  = " ahmed "
+
+let str3 = str1 + str2 
+
+console.log(str3 );
+
+
+
 
